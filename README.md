@@ -2,10 +2,8 @@
 - São Paulo / SP
 - Em transição de carreira - Engenharia Industrial -> Tech
 - Graduando Análise de Desenvolvimento de Sistemas (2/5) - Impacta.
-- Long Life Learner
-- Python :green_heart:
-- 	:man_technologist:
-- 	:snake:
+- Long Life Learner :man_technologist:
+- Python :green_heart::snake:
 
 <!---
 lucasmanesco/lucasmanesco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

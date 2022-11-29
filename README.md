@@ -1,6 +1,6 @@
 - 👋 Lucas Manesco, 28yo.
 - São Paulo / SP
-- Em transição de carreira - Engenharia Industrial -> Tech
+- Em transição de carreira - Engenharia Industrial -> Dev
 - Graduando Análise de Desenvolvimento de Sistemas (2/5) - Impacta.
 - Long Life Learner :man_technologist:
 - Python :green_heart::snake:

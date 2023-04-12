@@ -8,7 +8,7 @@
 ## Olá 👋, 
 Eu sou Lucas Manesco, no momento trabalho como Engenheiro de Controle e Automação e estou em fase de transição de carreira para Desenvolvedor Back End / Cientista de Dados e estou cursando a faculdade de Análise e Desenvolvimento de Sistemas.
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasManesco-99&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucasmanesco-99&theme=dark)](https://git.io/streak-stats)
 
 
 **Aplicações e Dados**

@@ -11,9 +11,6 @@ Eu sou Lucas Manesco, no momento trabalho como Engenheiro de Controle e Automaç
 **Aplicações e Dados**
  
   ![Python]( https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-  ![Flask]
-  ![Pandas]
-  ![Matplotlib]
   
 **Estudando**
   

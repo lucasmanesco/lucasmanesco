@@ -1,10 +1,10 @@
 <h1 align="center">Lucas Soares Manesco</h1>
-<h3 align="center"><img src=" https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="30" height="30"/> Python Developer <img src=" https://e7.pngegg.com/pngimages/593/987/png-clipart-graphics-computer-icons-symbol-data-science-symbol-miscellaneous-logo.png" alt="nodejs" width="20" height="20"/></h3>
+<h3 align="center"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="30" height="30"/> Python Developer <img src="https://e7.pngegg.com/pngimages/593/987/png-clipart-graphics-computer-icons-symbol-data-science-symbol-miscellaneous-logo.png" alt="nodejs" width="20" height="20"/></h3>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/lucas-manesco//)]( https://www.linkedin.com/in/lucas-manesco/)
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=https://whats.link/lucasmanesco)](https://whats.link/lucasmanesco)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=black&link=mailto:ricardocarvalho606@gmail.com)](mailto:duduxss3@gmail.com)
+
 ## Olá 👋, 
 Eu sou Lucas Manesco, no momento trabalho como Engenheiro de Controle e Automação e estou em fase de transição de carreira para Desenvolvedor Back End / Cientista de Dados e estou cursando a faculdade de Análise e Desenvolvimento de Sistemas.
  

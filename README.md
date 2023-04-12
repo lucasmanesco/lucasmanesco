@@ -8,17 +8,21 @@
 ## Olá 👋, 
 Eu sou Lucas Manesco, no momento trabalho como Engenheiro de Controle e Automação e estou em fase de transição de carreira para Desenvolvedor Back End / Cientista de Dados e estou cursando a faculdade de Análise e Desenvolvimento de Sistemas.
  
-**Aplicações e Dados**
+**Programação**
  
   ![Python]( https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   
 **Estudando**
-  
---
+
+   SQL
+   AWS
+   Linux
+   Pandas
+   Matplotlib
   
 **Utilidades**
 
---
+   Notion
 
 **DevOps**
 

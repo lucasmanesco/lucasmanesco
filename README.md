@@ -6,7 +6,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=https://whats.link/lucasmanesco)](https://whats.link/lucasmanesco)
 
 ## Olá 👋, 
-Eu sou Lucas Manesco, no momento trabalho como Engenheiro de Controle e Automação e estou em fase de transição de carreira para Desenvolvedor Back End / Cientista de Dados e estou cursando a faculdade de Análise e Desenvolvimento de Sistemas.
+Eu sou Lucas Manesco, no momento trabalho como Engenheiro de Controle e Automação, estou em fase de transição de carreira para Desenvolvedor Back End / Cientista de Dados e estou cursando a faculdade de Análise e Desenvolvimento de Sistemas.
  
 **Programação**
  

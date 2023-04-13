@@ -3,7 +3,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-manesco/)](https://www.linkedin.com/in/lucas-manesco/)
-[![Whatsapp Badge](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whats.link/lucasmanesco) (https://whats.link/lucasmanesco)
+[![Whatsapp Badge](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whats.link/lucasmanesco)](https://whats.link/lucasmanesco)
 
 ## Olá 👋, 
 Eu sou Lucas Manesco, no momento trabalho como Engenheiro de Controle e Automação, estou em fase de transição de carreira para Desenvolvedor Back End / Cientista de Dados e estou cursando a faculdade de Análise e Desenvolvimento de Sistemas.
@@ -15,7 +15,11 @@ Eu sou Lucas Manesco, no momento trabalho como Engenheiro de Controle e Automaç
 **Estudando**
 
    ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)<br/>
-   ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+   ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)<br/>
+   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)<br/>
+   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)<br/>
+   ![MySQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+   
   
 **Utilidades**
 

@@ -6,7 +6,7 @@
 [![Whatsapp Badge](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whats.link/lucasmanesco)](https://whats.link/lucasmanesco)
 
 ## Olá 👋, 
-Engenheiro de Controle e Automação atuando na área há 10 anos e cursando faculdade de Análise e Desenvolvimento de Sistemas buscando uma transição de carreira para Desenvolvedor Back End / Cientista de Dados.
+Engenheiro de Controle e Automação atuando na área há 10 anos e cursando faculdade de Análise e Desenvolvimento de Sistemas focando no estudo da linguagem Python e Data Science.
  
 **Programação**
  
